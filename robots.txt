@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://orbiaceo.github.io/Anna_Lobo/sitemap.xml
+Sitemap: https://anna-lobo-klavier.de/sitemap.xml
